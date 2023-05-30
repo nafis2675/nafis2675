@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nafis Iqbal</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fixed+Width&weight=500&size=40&duration=7500&pause=1000&color=000000&background=A55C2B00&center=true&vCenter=true&width=435&lines=Nafis+Iqbal" alt="Typing SVG" /></a>
 <h3 align="center">SQA dev from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis2675&label=Profile%20views&color=0e75b6&style=flat" alt="nafis2675" /> </p>
