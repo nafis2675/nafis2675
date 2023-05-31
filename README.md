@@ -1,5 +1,5 @@
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fixed+Width&weight=500&size=40&pause=2500&color=FF0505&background=A55C2B00&center=true&vCenter=true&width=1080&lines=NAFIS+IQBAL" alt="Typing SVG" /></a>
-<h3 align="center">SQA dev from Bangladesh</h3></center>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fixed+Width&weight=500&size=56&pause=3000&color=149414&background=A55C2B00&center=true&vCenter=true&width=1080&lines=NAFIS+IQBAL" alt="Typing SVG" /></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rodden+Berry&weight=500&size=40&duration=7500&pause=1000&color=F76921&center=true&vCenter=true&width=1080&lines=SQA+dev+from+Bangladesh" alt="Typing SVG" /></a></h3></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis2675&label=Profile%20views&color=0e75b6&style=flat" alt="nafis2675" /> </p>
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://tryhackme.com/p/mrvoidwalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafis-iqbal-12186622a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nafis-iqbal-12186622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafis-iqbal-12186622a" height="30" width="40" /></a>
 <a href="https://fb.com/nafis iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafis iqbal" height="30" width="40" /></a>
 </p>
