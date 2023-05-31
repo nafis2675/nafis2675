@@ -7,9 +7,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://tryhackme.com/p/mrvoidwalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafis-iqbal-12186622a" height="30" width="40" /></a>
+<a href="https://codepen.io/nafis2675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nafis2675" height="30" width="40" /></a>
+<a href="https://dev.to/devtinafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devtinafis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nafis-iqbal-12186622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafis-iqbal-12186622a" height="30" width="40" /></a>
-<a href="https://fb.com/nafis iqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafis iqbal" height="30" width="40" /></a>
+<a href="https://codesandbox.com/codesandboxnafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="codesandboxnafis" height="30" width="40" /></a>
+<a href="https://kaggle.com/nafisiqbal191152675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafisiqbal191152675" height="30" width="40" /></a>
+<a href="https://fb.com/nafia.iqbal.92798072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafia.iqbal.92798072" height="30" width="40" /></a>
+<a href="https://www.behance.net/behancednafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="behancednafis" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hackerranknafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerranknafis" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/codeforcenaifs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforcenaifs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nafisleet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nafisleet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
