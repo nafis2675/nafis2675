@@ -1,5 +1,4 @@
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fixed+Width&weight=500&size=56&pause=3000&color=149414&background=A55C2B00&center=true&vCenter=true&width=1080&lines=NAFIS+IQBAL" alt="Typing SVG" /></a>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rodden+Berry&weight=500&size=40&duration=7500&pause=1000&color=F76921&center=true&vCenter=true&width=1080&lines=SQA+dev+from+Bangladesh" alt="Typing SVG" /></a></h3></center>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=00FF00&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello+I+am+NAFIS+IQBAL;Data+Analyst+and+SQA+from+BD" alt="Typing SVG" /></a></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafis2675&label=Profile%20views&color=0e75b6&style=flat" alt="nafis2675" /> </p>
 
